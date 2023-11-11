@@ -226,6 +226,7 @@ img {
   text-transform: capitalize;
   font-size: 1.2rem;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .nav .menu_list li:hover {
@@ -255,4 +256,6 @@ img {
 
 .action_btns button:hover {
   font-weight: 600;
+ background-color: aliceblue;
+ color: #40196d;
 }
